@@ -1,0 +1,6 @@
+.venv
+tmp
+__pycache__
+notebooks/__pycache__
+*.pyc
+notebooks/__pycache__/*.pyc
